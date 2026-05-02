@@ -1,8 +1,8 @@
 cask "panes" do
-  version "0.58.0"
-  sha256 "5c3fa251be1794d53bb9b460e142ad125cb905ed3dbf1791f714b532e00e00ee"
+  version "0.59.0"
+  sha256 "09178506f9ebc0eba15340a4babf29979948c3e4df7b0fa015e545ec19e4366f"
 
-  url "https://github.com/wygoralves/panes/releases/download/v0.58.0/Panes_0.58.0_universal.dmg"
+  url "https://github.com/wygoralves/panes/releases/download/v0.59.0/Panes_0.59.0_universal.dmg"
   name "Panes"
   desc "Local-first cockpit for AI-assisted coding"
   homepage "https://github.com/wygoralves/panes"
